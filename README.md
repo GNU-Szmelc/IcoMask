@@ -1,4 +1,4 @@
-# EXTENDED README.MD
+# IcoMask ~ Modern Icon Toolkit by szmelc
 
 ===================================================
 
